@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "tape test.mjs | tap-spec"
+  },
+  "devDependencies": {
+    "@architect/functions": "^5.3.1",
+    "@architect/sandbox": "^5.4.1",
+    "tap-spec": "^5.0.0",
+    "tape": "^5.6.1"
+  }
+}
